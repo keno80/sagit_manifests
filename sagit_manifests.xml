@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="TeamDarkness-Devices" fetch="https://github.com/TeamDarkness-Devices/" revision="aos-o"/>
+
+<project name="TeamDarkness-Devices/aos_device_sagit" path="device/xiaomi/sagit" remote="github"  revision="aos-o" />
+<project name="TeamDarkness-Devices/vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" remote="github"  revision="aos-o" />
+<project name="TeamDarkness-Devices/kernel_xiaomi_msm8998" path="kernel/xiaomi/sagit" remote="github" revision="aos-o" />
+
+
+</manifest>
