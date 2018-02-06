@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote name="TeamDarkness-Devices" fetch="https://github.com/TeamDarkness-Devices/" revision="aos-o"/>
+<remote name="Verevka" fetch="https://github.com/Verevka/" />
+<remote name="ShevT" fetch="https://github.com/ShevT/" revision="lineage-15.1"/>
 
-<project name="TeamDarkness-Devices/aos_device_sagit" path="device/xiaomi/sagit" remote="github"  revision="aos-o" />
-<project name="TeamDarkness-Devices/vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" remote="github"  revision="aos-o" />
-<project name="TeamDarkness-Devices/kernel_xiaomi_msm8998" path="kernel/xiaomi/sagit" remote="github" revision="aos-o" />
+<project name="Verevka/device_xiaomi_sagit_8.1" path="device/xiaomi/sagit" remote="github"  revision="los-15.1" />
+<project name="Verevka/vendor_xiaomi_sagit" path="vendor/xiaomi/sagit" remote="github"  revision="o8.1" />
+<project name="ShevT/kernel_xiaomi_msm8998" path="kernel/xiaomi/sagit" remote="github" revision="lineage-15.1" />
 
 
 </manifest>
